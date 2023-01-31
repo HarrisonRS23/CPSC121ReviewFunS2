@@ -8,7 +8,6 @@ int main() {
   fillVector(userNums);
   cout << "size: " << userNums.size() << endl;
 
-
   int min, max;
   findExtremes(userNums, min, max);
   cout << "min: " << min << " max: " << max << endl;

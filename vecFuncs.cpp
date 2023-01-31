@@ -8,7 +8,6 @@ void fillVector(vector<int>& vec){
     cin >> num;
     vec.push_back(num);
   }
-  
 }
 
 void findExtremes(vector<int> vec, int &min, int &max){
